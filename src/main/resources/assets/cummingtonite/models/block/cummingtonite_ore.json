@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cummingtonite:block/cummingtonite_ore"
+  }
+}

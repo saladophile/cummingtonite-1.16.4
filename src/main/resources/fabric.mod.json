@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "cummingtonite",
+  "version": "1.0.0",
+  "name": "C is for Cummingtonite",
+  "description": "Adds a new material!",
+  "authors": [
+    "saladophile"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/cummingtonite/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.saladophile.cummingtonite.client.CummingtoniteClient"
+    ],
+    "main": [
+      "com.saladophile.cummingtonite.Cummingtonite"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}

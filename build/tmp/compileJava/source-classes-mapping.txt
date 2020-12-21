@@ -1,0 +1,6 @@
+com/saladophile/cummingtonite/client/CummingtoniteClient.java
+ com.saladophile.cummingtonite.client.CummingtoniteClient
+com/saladophile/cummingtonite/Cummingtonite.java
+ com.saladophile.cummingtonite.Cummingtonite
+com/saladophile/cummingtonite/registry/ModItems.java
+ com.saladophile.cummingtonite.registry.ModItems
