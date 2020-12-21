@@ -12,9 +12,6 @@
   "icon": "assets/cummingtonite/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.saladophile.cummingtonite.client.CummingtoniteClient"
-    ],
     "main": [
       "com.saladophile.cummingtonite.Cummingtonite"
     ]
